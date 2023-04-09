@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  justify-content: space-around;
+  margin: 40px auto;
+}
+.btn {
+  background-color: rgba(123, 109, 141, 0.3);
+  color: white;
+  width: 120px;
+  height: 54px;
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+  text-transform: capitalize;
+  font-size: 22px;
+  transition: all 0.3s;
+}
+
+.btn:hover {
+  background-color: #7b6d8d;
+  transform: scale(1, 1);
+  box-shadow: 10px 10px 37px -12px rgba(0, 0, 0, 0.86);
+}

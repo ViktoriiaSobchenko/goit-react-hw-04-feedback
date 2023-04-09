@@ -1,0 +1,13 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: rgba(123, 109, 141, 0.6);
+}
+.text {
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0 auto 20px;
+}
